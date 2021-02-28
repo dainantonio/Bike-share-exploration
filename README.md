@@ -26,3 +26,18 @@ I then went on to do bivariate where I looked at the pairwise features between v
 
 For my multivariae exploration I first explored the relationship between age, gender and the trip durations using a scatterplot. I used a line plot to compare how long each gender member rides on a given weekday.
 
+## List of Sources
+
+https://www.kaggle.com/chirag02/ford-gobike-data-analysis
+
+https://seaborn.pydata.org/generated/seaborn.FacetGrid.html
+
+https://github.com/meet3012/Ford-GoBike-System-Data-Visualization/blob/master/Data-Exploration-with-Bike-Data.ipynb
+
+https://github.com/adipurnamk/Ford-GoBike-System-Data/blob/master/exploration_fordgobike_2017.ipynb
+https://github.com/ijdev/Ford-GoBike-System-Data---Data-Analysis
+
+https://mnalmelihi.github.io/z
+
+https://www.citibikenyc.com/system-data
+
