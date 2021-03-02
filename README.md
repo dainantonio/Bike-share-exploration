@@ -10,7 +10,16 @@ The data consists of information regarding individual rides made in a bike-shari
 
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process. In the first part, I used use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. In the second part, I produced a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset. The primary method of conveying the findings was done through transforming my exploratory visualizations from the first part into polished, explanatory visualizations.
 
-## Why this project
+## What do I need to install?
+
+This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the [Anaconda distribution](https://www.anaconda.com/products/individual) to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
+
+* NumPy
+* pandas
+* Matplotlib
+* Seaborn
+
+## Why this project?
 
 Data visualization is an important skill that is used in many parts of the data analysis process. Exploratory data visualization generally occurs during and after the data wrangling process, and is the main method that was used to understand the patterns and relationships present in my data. This understanding aided in my statistical analyses and also in building conclusions and findings. Explanatory data visualization techniques were used after generating my findings, and were used to help communicate my results to others. Understanding design considerations ensures my message is clear and effective. In addition to being a good producer of visualizations, going through this project helped me to be a good consumer of visualizations that are presented to me by others.
 
