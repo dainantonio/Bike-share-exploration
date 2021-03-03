@@ -23,6 +23,13 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 
 Data visualization is an important skill that is used in many parts of the data analysis process. Exploratory data visualization generally occurs during and after the data wrangling process, and is the main method that was used to understand the patterns and relationships present in my data. This understanding aided in my statistical analyses and also in building conclusions and findings. Explanatory data visualization techniques were used after generating my findings, and were used to help communicate my results to others. Understanding design considerations ensures my message is clear and effective. In addition to being a good producer of visualizations, going through this project helped me to be a good consumer of visualizations that are presented to me by others.
 
+## What will I learn?
+After completing this project, you will be able to:
+
+Supplement statistics with visualizations to build understanding of data.
+Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
+Use design principles to create effective visualizations for communicating findings to an audience.
+
 ## Summary of Findings
 
 In the exploration, I found that there was an inverse relationship between a user's age and the duration of a bike trip. The  bike trip was shorter as a user's age increased. The gender distribution shows males are 3 times as likely to use the bike share program. However, comparing the the gender and trip duration we find that males have the shortest trip duration. A customer spends twice as much time on a trip than a subscriber. When the gender types are compared as it relates to trip duration, the ages between 20 to 40 represents the group that does most of the rides. Females and males do appear to have similar ride average. The trip duration start trending up on the weekends from Thursdays to Saturdays. Males still have the shortest bike trip.
